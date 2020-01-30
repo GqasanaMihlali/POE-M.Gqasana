@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    background-color: yellow;
+    border: 1px solid black;
+
+}
+p,#para1,.center {
+ color: red;
+ /*this is a single-line comment*/  
+ text-align: center;   
+ /*this is a multi-line comment*/
+}
